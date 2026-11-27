@@ -1,0 +1,46 @@
+# Özen Metalurji
+
+> 1974'te İstanbul Topçular'da kurulan, 2014'ten bu yana Kastamonu Abana'daki fabrikasında alüminyum kum ve kokil döküm, pirinç (sarı) döküm, bronz (kızıl) döküm, zamak döküm ve %99,80 saf alüminyumdan anot döküm yapan demir dışı metal dökümhanesi. Model, kalıp, maça ve XRF alaşım analizi kendi bünyesindedir.
+
+## Temel bilgiler
+
+- Unvan: Özen Metalurji Makine ve Kalıp San. Tic. Ltd. Şti.
+- Kuruluş: 1974 (Özen Döküm Sanayi, Topçular / İstanbul); 2007'den beri Özen Metalurji
+- Fabrika: Merkez Mah. Sabri Kalafat Cad. No:66, Abana / Kastamonu — 2.000 m² açık, 1.000 m² kapalı alan — Tel: 0 366 564 14 97
+- Ofis: Topçular Mah. Rami Kışla Cad. Uzak Çiftlik Sok. No:19/B, Eyüpsultan / İstanbul — Tel: 0 212 567 71 26 / 0 212 567 71 48
+- E-posta: info@ozenmetalurji.com.tr
+- Dökülen metaller: alüminyum (kum ve kokil), pirinç, bronz, zamak, alüminyum anot. Pik, sfero ve çelik döküm yapılmaz.
+- Ekipman: 300 kg ve 500 kg indüksiyon ocakları; 200/300/350 kg alüminyum rezistanslı ocaklar; tam otomatik maça makinesi; 2 kokil döküm makinesi; Bruker S1 TITAN XRF; IMPAC sıcaklık ölçer.
+- Sektörler: makine yedek parçaları, cam sanayi, plastik şişirme kalıpları, tekstil yedek parçaları, otomotiv yan sanayi, anot döküm sistemleri; yurt içi ve yurt dışı.
+
+## Döküm hizmetleri
+
+- [Döküm Hizmetleri]([[S]]hizmetler/): Alüminyum kum ve kokil döküm, pirinç (sarı) döküm, bronz (kızıl) döküm, zamak ve anot döküm hizmetleri. Yöntem karşılaştırması ve teklif. Özen Metalurji.
+- [Alüminyum Kum Döküm]([[S]]hizmetler/aluminyum-kum-dokum/): Alüminyum kum döküm nedir, ne zaman tercih edilir? AlSi12, AlSi7Mg, AlSi10Mg alaşımlarında kum döküm; model ve maça bizde, XRF analizli. Abana/Kastamonu fabrika.
+- [Alüminyum Kokil Döküm]([[S]]hizmetler/aluminyum-kokil-dokum/): Alüminyum kokil (metal kalıp, gravite) döküm: tekrarlanabilir ölçü, düzgün yüzey ve seri üretim. Kokil kalıp ve maça kendi bünyemizde. Özen Metalurji, Abana.
+- [Pirinç Döküm (Sarı Döküm)]([[S]]hizmetler/pirinc-dokum/): Pirinç (sarı) döküm: işlenebilirliği yüksek, korozyona dayanıklı vana, rakor ve makine parçaları. CuZn39Pb1Al, CuZn33Pb2 alaşımları, XRF analizli. Özen Metalurji.
+- [Bronz Döküm (Kızıl Döküm)]([[S]]hizmetler/bronz-dokum/): Bronz (kızıl) döküm: aşınmaya ve sürtünmeye dayanıklı burç, yatak, dişli ve makine parçaları. CuSn10, CuSn12, CuSn5Zn5Pb5, alüminyum bronzu. Özen Metalurji.
+- [Zamak Döküm]([[S]]hizmetler/zamak-dokum/): Zamak (çinko-alüminyum alaşımı) döküm: ince detaylı, kaplamaya uygun, düzgün yüzeyli parçalar. Zamak 3, Zamak 5, Zamak 2. Özen Metalurji, Abana/Kastamonu.
+- [Alüminyum Anot Döküm]([[S]]hizmetler/anot-dokum/): Yurt dışı menşeli %99,80 saflıkta alüminyumdan anot döküm. Ambalajlı, 2,5 tonluk paletlerde sevkiyat. Abana/Kastamonu fabrikasında üretim — Özen Metalurji.
+
+## Kurumsal
+
+- [Hakkımızda]([[S]]hakkimizda/): 1974'te Topçular'da Özen Döküm olarak kuruldu, 2014'ten beri Kastamonu Abana'da üretiyor. Tarihçe, vizyon, misyon ve kalite politikamız.
+- [Tesislerimiz ve Makine Parkuru]([[S]]tesislerimiz/): Abana fabrikamız: 2.000 m² açık, 1.000 m² kapalı alan; 300 ve 500 kg indüksiyon ocakları, alüminyum rezistanslı ocaklar, kokil makineleri ve XRF analiz.
+- [Kalite ve Laboratuvar]([[S]]kalite-ve-laboratuvar/): Özen Metalurji laboratuvarında Bruker S1 TITAN XRF ile alaşım analizi, IMPAC ile sıcaklık takibi ve ilk numune onayıyla tekrarlanabilir döküm kalitesi.
+- [Döküm Üretim Süreci: 8 Adımda Parça Üretimi]([[S]]uretim-sureci/): Döküm nasıl yapılır? Teknik resim, çekme payı hesabı, model ve kalıp, kalıplama, ergitme ve XRF analiz, döküm, dekopaj ve kumlama, kontrol ve sevkiyat adımları.
+- [Sektörler]([[S]]sektorler/): Özen Metalurji; makine yedek parçası, cam sanayi, plastik şişirme kalıpları, tekstil, otomotiv ve anot sistemleri için alüminyum, pirinç, bronz ve zamak döküm yapar.
+
+## Rehberler
+
+- [Bilgi Merkezi]([[S]]bilgi-merkezi/): Döküm yöntemleri ve alaşımlar hakkında rehberler: kum ve kokil döküm farkı, pirinç ve bronz farkı, alüminyum anot ve döküm teklifi için gerekenler.
+- [Kum Döküm ile Kokil Döküm Arasındaki Fark]([[S]]bilgi-merkezi/kum-dokum-ve-kokil-dokum-farki/): Kum döküm ve kokil (metal kalıp) döküm karşılaştırması: kalıp maliyeti, adet, yüzey kalitesi, ölçü ve mekanik özellikler. Hangi parça için hangisi seçilmeli?
+- [Pirinç ve Bronz Döküm Farkı]([[S]]bilgi-merkezi/pirinc-ve-bronz-dokum-farki/): Pirinç (sarı döküm) ile bronz (kızıl döküm) farkı: alaşım elementleri, işlenebilirlik, aşınma dayanımı, maliyet ve kullanım alanları. Hangi parça için hangi alaşım?
+- [Alüminyum Anot Nedir? Saflık, Kullanım ve Tedarik]([[S]]bilgi-merkezi/aluminyum-anot-nedir/): Alüminyum anot nedir, hangi saflıkta olmalı, nasıl üretilir ve sevk edilir? %99,80 saf alüminyumdan anot döküm hakkında bilmeniz gerekenler.
+- [Döküm Teklifi İçin Gerekenler: 7 Maddelik Liste]([[S]]bilgi-merkezi/dokum-teklifi-icin-gerekenler/): Döküm teklifi isterken gönderilecekler: teknik resim, alaşım, adet, tolerans, işleme, yüzey ve ambalaj bilgisi. Hızlı ve doğru teklif için kontrol listesi.
+
+## Diğer
+
+- [Sık Sorulan Sorular]([[S]]sss/): Döküm siparişi öncesi merak edilenler: hangi metaller dökülür, kum ve kokil döküm farkı, ergitme kapasitesi, XRF analiz, model/kalıp, numune ve teklif süreci.
+- [İletişim ve Teklif]([[S]]iletisim/): Özen Metalurji iletişim: İstanbul ofis 0 212 567 71 26, Abana fabrika 0 366 564 14 97, info@ozenmetalurji.com.tr. Teklif formu ve Google Haritalar.
+

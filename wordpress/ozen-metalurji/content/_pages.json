@@ -1,0 +1,128 @@
+[
+ {
+  "key": "home",
+  "slug": "ana-sayfa",
+  "parent": "",
+  "title": "Ana Sayfa"
+ },
+ {
+  "key": "hizmetler",
+  "slug": "hizmetler",
+  "parent": "",
+  "title": "Demir dışı metal döküm hizmetleri"
+ },
+ {
+  "key": "hizmetler__aluminyum-kum-dokum",
+  "slug": "aluminyum-kum-dokum",
+  "parent": "hizmetler",
+  "title": "Alüminyum kum döküm"
+ },
+ {
+  "key": "hizmetler__aluminyum-kokil-dokum",
+  "slug": "aluminyum-kokil-dokum",
+  "parent": "hizmetler",
+  "title": "Alüminyum kokil döküm"
+ },
+ {
+  "key": "hizmetler__pirinc-dokum",
+  "slug": "pirinc-dokum",
+  "parent": "hizmetler",
+  "title": "Pirinç döküm (sarı döküm)"
+ },
+ {
+  "key": "hizmetler__bronz-dokum",
+  "slug": "bronz-dokum",
+  "parent": "hizmetler",
+  "title": "Bronz döküm (kızıl döküm)"
+ },
+ {
+  "key": "hizmetler__zamak-dokum",
+  "slug": "zamak-dokum",
+  "parent": "hizmetler",
+  "title": "Zamak döküm"
+ },
+ {
+  "key": "hizmetler__anot-dokum",
+  "slug": "anot-dokum",
+  "parent": "hizmetler",
+  "title": "Alüminyum anot döküm"
+ },
+ {
+  "key": "hakkimizda",
+  "slug": "hakkimizda",
+  "parent": "",
+  "title": "Hakkımızda: 1974'ten bugüne Özen Metalurji"
+ },
+ {
+  "key": "tesislerimiz",
+  "slug": "tesislerimiz",
+  "parent": "",
+  "title": "Tesislerimiz ve makine parkurumuz"
+ },
+ {
+  "key": "kalite-ve-laboratuvar",
+  "slug": "kalite-ve-laboratuvar",
+  "parent": "",
+  "title": "Kalite ve laboratuvar"
+ },
+ {
+  "key": "uretim-sureci",
+  "slug": "uretim-sureci",
+  "parent": "",
+  "title": "Döküm üretim süreci: teknik resimden sevkiyata 8 adım"
+ },
+ {
+  "key": "sektorler",
+  "slug": "sektorler",
+  "parent": "",
+  "title": "Hizmet verdiğimiz sektörler"
+ },
+ {
+  "key": "sss",
+  "slug": "sss",
+  "parent": "",
+  "title": "Döküm hakkında sık sorulan sorular"
+ },
+ {
+  "key": "bilgi-merkezi",
+  "slug": "bilgi-merkezi",
+  "parent": "",
+  "title": "Döküm rehberleri"
+ },
+ {
+  "key": "bilgi-merkezi__kum-dokum-ve-kokil-dokum-farki",
+  "slug": "kum-dokum-ve-kokil-dokum-farki",
+  "parent": "bilgi-merkezi",
+  "title": "Kum döküm ile kokil döküm arasındaki fark nedir?"
+ },
+ {
+  "key": "bilgi-merkezi__pirinc-ve-bronz-dokum-farki",
+  "slug": "pirinc-ve-bronz-dokum-farki",
+  "parent": "bilgi-merkezi",
+  "title": "Pirinç ve bronz döküm arasındaki fark nedir?"
+ },
+ {
+  "key": "bilgi-merkezi__aluminyum-anot-nedir",
+  "slug": "aluminyum-anot-nedir",
+  "parent": "bilgi-merkezi",
+  "title": "Alüminyum anot nedir, nerede kullanılır?"
+ },
+ {
+  "key": "bilgi-merkezi__dokum-teklifi-icin-gerekenler",
+  "slug": "dokum-teklifi-icin-gerekenler",
+  "parent": "bilgi-merkezi",
+  "title": "Döküm teklifi almak için neler gerekir?"
+ },
+ {
+  "key": "iletisim",
+  "slug": "iletisim",
+  "parent": "",
+  "title": "İletişim ve teklif"
+ },
+ {
+  "key": "kvkk",
+  "slug": "kvkk",
+  "parent": "",
+  "title": "KVKK Aydınlatma Metni"
+ }
+]
