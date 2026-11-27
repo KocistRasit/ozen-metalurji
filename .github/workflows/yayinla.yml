@@ -26,12 +26,13 @@ jobs:
           python-version: "3.12"
       - name: Statik önizlemeyi ve WordPress temasını üret
         run: BASE="/${GITHUB_REPOSITORY#*/}/" python3 src/build.py
-      - name: Görselleri ve güncel temayı depoya yaz
+      - name: Yeni indirilen görselleri depoya yaz
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets-img wordpress
-          git diff --cached --quiet || { git commit -m "Görseller ve WordPress teması güncellendi [skip ci]"; git push; }
+          git add assets-img
+          git diff --cached --quiet || { git commit -m "Görseller güncellendi [skip ci]"; git push; }
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
