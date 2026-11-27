@@ -105,7 +105,7 @@ home_body = """
     </ul>
     <a class="link-arrow" href="[[B]]sektorler/">Sektörlere göre çözümler %(arrow)s</a>
   </div>
-  <figure class="photo photo-tall"><img src="[[A]]img/anot-dokum.jpg" alt="Özen Metalurji Abana fabrikasında dökülmüş alüminyum anotlar" width="800" height="600" loading="lazy" decoding="async"><figcaption>Abana fabrikasında anot döküm</figcaption></figure>
+  <figure class="photo photo-tall"><img src="[[A]]img/anot-dokum.jpg" alt="Özen Metalurji Abana fabrikası üretim holü ve alüminyum anotlar" width="774" height="1032" loading="lazy" decoding="async"><figcaption>Abana fabrikası üretim holü</figcaption></figure>
 </div></section>
 
 <section class="section"><div class="wrap">
@@ -170,7 +170,7 @@ about_body = page_hero("Kurumsal", "Hakkımızda: 1974'ten bugüne Özen Metalur
 </div></section>
 
 <section class="section"><div class="wrap split">
-  <figure class="photo"><img src="[[A]]img/ozen-metalurji-banner.jpg" alt="Özen Metalurji döküm üretimi" width="1200" height="600" loading="lazy" decoding="async"></figure>
+  <figure class="photo"><img src="[[A]]img/ozen-metalurji-banner.jpg" alt="Özen Metalurji dökümhanesinde ocaktan döküm" width="900" height="598" loading="lazy" decoding="async"></figure>
   <div class="prose">
     <p class="eyebrow">Kalite politikamız</p>
     <h2>Müşteri memnuniyetini ihtiyaç ve talepler doğrultusunda en üst seviyede tutmak</h2>
@@ -224,8 +224,8 @@ plant_body = page_hero("Kurumsal", "Tesislerimiz ve makine parkurumuz",
 <section class="section"><div class="wrap">
   <div class="sec-head"><p class="eyebrow">Fabrikadan kareler</p><h2>Anot üretimi ve sevkiyat</h2></div>
   <div class="gallery">
-    <figure><img src="[[A]]img/anot-aluminyum-hammadde.jpg" alt="Yurt dışı menşeli %%99,80 saflıkta alüminyum hammadde" width="600" height="450" loading="lazy" decoding="async"><figcaption>%%99,80 saf alüminyum hammadde</figcaption></figure>
-    <figure><img src="[[A]]img/anot-dokum.jpg" alt="Dökülmüş alüminyum anotlar" width="600" height="450" loading="lazy" decoding="async"><figcaption>Anot döküm</figcaption></figure>
+    <figure><img src="[[A]]img/anot-aluminyum-hammadde.jpg" alt="Tıra yüklenen alüminyum anotlar" width="600" height="450" loading="lazy" decoding="async"><figcaption>Tıra yükleme</figcaption></figure>
+    <figure><img src="[[A]]img/anot-dokum.jpg" alt="Abana fabrikası üretim holü" width="600" height="450" loading="lazy" decoding="async"><figcaption>Üretim holü</figcaption></figure>
     <figure><img src="[[A]]img/anot-malzeme-depolama.jpg" alt="Abana fabrikası malzeme depolama alanı" width="600" height="450" loading="lazy" decoding="async"><figcaption>Malzeme depolama alanı</figcaption></figure>
     <figure><img src="[[A]]img/anot-palet-ambalaj.jpg" alt="2,5 tonluk paletlerde ambalajlanmış anotlar" width="600" height="450" loading="lazy" decoding="async"><figcaption>Ambalajlı anotlar (2,5 ton palet)</figcaption></figure>
     <figure><img src="[[A]]img/anot-sevkiyat.jpg" alt="Sevkiyata hazırlanan anotlar" width="600" height="450" loading="lazy" decoding="async"><figcaption>Sevk edilen anotlar</figcaption></figure>
